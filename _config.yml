@@ -1,6 +1,6 @@
-title: Hello from Druid!
+title: pramod Varma's Personal Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Personal blog of Pramod Varma, Chief Architect of Aadhaar, India Stack, UPI, DIKSHA, Becknprotocol
+  Personal blog of Pramod Varma, Chief Architect of Aadhaar, India Stack, UPI, Becknprotocol and many other digital public infrasrtucture in India
 permalink: ':title/'
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://pramodkvarma.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
@@ -9,7 +9,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: Pramod Varma # add your name
 author-img: druid-sketch.png # add your photo
-about-author: Who is druid? # add description
+about-author: Personal blog of Pramod Varma, Chief Architect of Aadhaar, India Stack, UPI, Becknprotocol and many other digital public infrasrtucture projects in India # add description
 social-twitter: pramodkvarma # add your Twitter handle
 #social-facebook: # add your Facebook handle
 social-github: pramodkvarma # add your Github handle
