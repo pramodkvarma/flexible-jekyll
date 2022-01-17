@@ -8,13 +8,13 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Pramod Varma # add your name
-author-img: david-freeman.jpg # add your photo
+author-img: druid-sketch.png # add your photo
 about-author: Who is druid? # add description
 social-twitter: pramodkvarma # add your Twitter handle
-social-facebook: # add your Facebook handle
+#social-facebook: # add your Facebook handle
 social-github: pramodkvarma # add your Github handle
 social-linkedin: pramodkvarma # add your Linkedin handle
-social-email: # add your Email address
+#social-email: # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
