@@ -1,0 +1,9 @@
+---
+layout: post
+title: Beckn Protocol
+date: 2018-09-10 18:20:00 +0530
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: beckn.png # Add image post (optional)
+tags: [Beckn, Protocol, Network, Interoperability] # add tag
+---
+Birth of beckn! Woohoo!
